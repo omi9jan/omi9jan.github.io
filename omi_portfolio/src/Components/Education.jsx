@@ -16,7 +16,7 @@ export default function Education() {
   return (
     <div className='edu-app'>
         <SimpleGrid bgGradient=
-            'linear(to-b, orange.300, orange.200,orange.100,pink.100, pink.100, pink.200,pink.300, pink.400, pink.500, purple.800)'
+            'linear(to-b, orange.300, orange.200,orange.100,pink.100, pink.100, pink.200 )'
         >
             <Heading fontSize="50px">Education</Heading>
             <Box className='dash'marginTop="20px">

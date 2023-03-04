@@ -18,7 +18,7 @@ export default function TechStack() {
             
             <div className='techstack-container'>
             <div className='techstack-heading2'>
-                <h1>Frontend</h1>
+                {/* <h1>Frontend</h1> */}
             </div>
                 <div className='techstack-frontend'>
                     <div>
@@ -68,9 +68,9 @@ export default function TechStack() {
 
                 </div>
                 <div className='techstack-heading2'>
-                <h1>Backend</h1>
+                {/* <h1>Backend</h1> */}
                </div>
-                <div className='techstack-backend'>
+                {/* <div className='techstack-backend'>
                     <div>
                 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Uwiil7q-Oq_EMK41OxZNDc7q5SqEX8pMnA&usqp=CAU" alt="ok" />
                 <h4>NODE JS</h4>
@@ -88,7 +88,7 @@ export default function TechStack() {
                     </div>
 
 
-                </div>
+                </div> */}
             </div>
             {/* <div className='techstack-heading'>
                 <h1>Projects</h1>

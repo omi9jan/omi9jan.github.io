@@ -3,7 +3,7 @@ import Navbar from "./Components/Navbar"
 import About from "./Components/About"
 import TechStack from './Components/TechStack';
 import Education from './Components/Education';
-import Project from './Components/Project';
+import Projects from './Components/Project/Projects';
 import Github from './Components/Github';
 import Contact from './Components/Contact';
 function App() {
@@ -13,7 +13,7 @@ function App() {
       <About/>
       <TechStack/>
       <Education/>
-      <Project/>
+      <Projects/>
       <Github/>
       <Contact/>
     </div>
