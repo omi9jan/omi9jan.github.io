@@ -1,18 +1,26 @@
 {
   "files": {
     "main.css": "/static/css/main.e12e3815.css",
-    "main.js": "/static/js/main.84ba7716.js",
-    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "main.js": "/static/js/main.1cbc8eb1.js",
+    "static/js/787.6679f517.chunk.js": "/static/js/787.6679f517.chunk.js",
+    "static/media/Amazonweb.png": "/static/media/Amazonweb.aadc351f7fc36bf7211d.png",
+    "static/media/Bewakoofweb.png": "/static/media/Bewakoofweb.d326b37117c2d7ed3bf0.png",
     "static/media/profilepic.png": "/static/media/profilepic.aa0f6a2c6d66f48fe953.png",
+    "static/media/Bigbasketweb.png": "/static/media/Bigbasketweb.73f39c103351d4db121c.png",
     "static/media/education.png": "/static/media/education.a9df9d6b535c47727f11.png",
+    "static/media/Nordstromweb.png": "/static/media/Nordstromweb.b9ac154a4cf5169de7df.png",
     "static/media/techstack.png": "/static/media/techstack.c202f3106e4511f0b81d.png",
+    "static/media/statGrade.png": "/static/media/statGrade.4aeaa5c0379aa08b9b55.png",
+    "static/media/calender.png": "/static/media/calender.0f8e5e993ab8e4c295f4.png",
+    "static/media/streak.png": "/static/media/streak.8848cca15aafc63d218e.png",
+    "static/media/lanUsed.png": "/static/media/lanUsed.1aabd9e92ca6fb204412.png",
     "index.html": "/index.html",
     "main.e12e3815.css.map": "/static/css/main.e12e3815.css.map",
-    "main.84ba7716.js.map": "/static/js/main.84ba7716.js.map",
-    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
+    "main.1cbc8eb1.js.map": "/static/js/main.1cbc8eb1.js.map",
+    "787.6679f517.chunk.js.map": "/static/js/787.6679f517.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e12e3815.css",
-    "static/js/main.84ba7716.js"
+    "static/js/main.1cbc8eb1.js"
   ]
 }
